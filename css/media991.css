@@ -1,0 +1,88 @@
+@media (max-width: 991px) 
+{
+
+  .hero {
+    padding-bottom: 20px;
+  }
+
+  .hero__content {
+    background-size: 45% auto;
+    padding-top: 129px;
+    padding-bottom: 115px;
+  }
+
+  .hero__h {
+    font-size: 50px;
+    margin-bottom: 16px;
+  }
+
+  .hero__img {
+    top: -15px;
+    right: -8%;
+    width: 30%;
+  }
+
+  .hero__descr {
+    max-width: 345px;
+  }
+
+
+  .advantage {
+    padding-bottom: 60px;
+  }
+
+
+  .advantage__content {
+    padding-left: 35%;
+    background-position: left center;
+    background-size: 31% auto;
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+  }
+
+
+  .advantage__item {
+    padding-left: 0;
+    padding-top: 45%;
+    background-position: left top;
+    background-repeat: no-repeat;
+    padding-bottom: 15px;
+  }
+
+  .lecturer {
+    padding-top: 75px;
+    padding-bottom: 25px;
+  }
+
+  .lecturer__rep {
+    margin-bottom: 25px;
+  }
+
+  .course {
+    padding-top: 74px;
+  }
+
+  .course__rep {
+    margin-bottom: 32px;
+  }
+
+
+  
+  .course__img_12 {
+    left: 15px;
+  }
+  
+  .course__img_13 {
+    left: 0;
+  }
+
+  .course__descr {
+    padding-bottom: 28px;
+  }
+
+  .course__button {
+    padding: 20.5px 55.5px;
+  }
+
+}
+

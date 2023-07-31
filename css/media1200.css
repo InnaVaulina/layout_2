@@ -1,0 +1,25 @@
+
+@media (max-width: 1200px) 
+{
+  .hero__img {
+    top: -55px;
+    right: -35%;
+    width: 40%;
+  }
+
+  .course__picture {
+    margin-bottom: 30px; 
+  }
+
+  .course__img_12 {
+    left: 70px;
+    width: 210px;
+  }
+  
+  .course__img_13 {
+    left: -20px;
+    width: 340px;
+  }
+
+
+}

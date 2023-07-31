@@ -1,0 +1,39 @@
+@media (max-width: 575px) 
+{
+
+  
+  .advantage__item {
+    padding-left: 110px;
+    background-position: left center;
+    background-repeat: no-repeat;
+    padding-top: 16px;
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+    min-height: 80px;
+  }
+
+
+  .course__rep {
+    margin-bottom: 30px;
+    /*min-height: calc(653px - (100% - 320px));    не работает*/
+  }
+
+  .course__img_1 {
+    padding-top: 0;
+  }
+
+  .course__img_12 {
+    bottom: -4px;
+    left: 90px;
+  }
+  
+  .course__img_13 {
+    bottom: -4px;
+    left: 3px;
+  }
+
+  .course__img_4 {
+    border-right: none;
+  }
+
+}
